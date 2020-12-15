@@ -52,7 +52,7 @@ class ResultScreen extends StatelessWidget {
                       color: Colors.white,
                     ),
                     width: width * 0.75,
-                    height: height * 0.25,
+                    height: height * 0.3,
                     child: Column(
                       children: <Widget>[
                         Container(
