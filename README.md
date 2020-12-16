@@ -1,6 +1,6 @@
 # quiz_app_test
 
-A new Flutter project.
+Flutter Language Study
 
 ## Getting Started
 
